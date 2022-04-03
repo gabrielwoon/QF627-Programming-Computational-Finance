@@ -1,5 +1,5 @@
 # QF627-Programming-Computational-Finance
-QF627 Programming Computational Finance AY2021/2022
+SMU QF627 Programming Computational Finance AY2021/2022
 
 The take-home group assignment is an intriguing task in computational finance — building your trading strategy to beat the market.  
 
